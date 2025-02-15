@@ -2,6 +2,10 @@
 
 Este projeto é uma versão do blog da Apiki focada exclusivamente em desenvolvedores. Ele foi desenvolvido como parte de um desafio para a posição de Front-end Developer.
 
+## Link do Site
+
+https://dev-blog-beige.vercel.app/
+
 ## Tecnologias Utilizadas
 
 - **React** com **Vite**
